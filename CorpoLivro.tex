@@ -77,6 +77,7 @@
 % ---
 \usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
 \usepackage[alf]{abntex2cite}	% Citações padrão ABNT
+\usepackage{import}
 
 % ---
 % Configurações do pacote backref
@@ -306,41 +307,17 @@ ISBN XXXX-XXXX-XX.
 \addcontentsline{toc}{chapter}{Introdução}
 % ------------------------------------------------------------
 
-\lettrine[nindent=0.35em,lhang=0.40,loversize=0.3]{O}{ Livro a seguir tem a pretensão, nada pequena, de narrar } acontecimentos da vida que todos, em âmbitos e graus de intensidade, passam durante boa parte da vida. 
-Destina-se a fomentar pensamentos que possam em parte orientar bem como trazer uma forma humorada de reagir a estas situações. 
-
-
-
-Desta forma, temos:
-
-\begin{description}
-\item[parte pré-textual] Composta por: falsa folha de rosto, folha de rosto,
-colofão (opcional na parte pós-textual), sumário (conteúdo),
-a\-gra\-de\-ci\-men\-tos (acknowledgments), dedicatória, epígrafe;
-\item[folha de rosto] Como diz o nome em inglês (\textit{title page}) a ``folha
-de rosto'' é a \textit{página do título}. No verso da folha de rosto, costuma-se
-incluir os dados sobre a obra e a edição, catalogação, editora, direitos
-autorais e de reprodução, etc;
-\item [parte pós-textual] Composta por epílogo, posfácio, apêndice, glossário,
-bibliografia, índice remissivo (inglês: \textit{index}), colofão, etc;
-
-\end{description}
-
-Este documento deve ser utilizado como complemento dos manuais do \abnTeX\ 
-\cite{abntex2classe,abntex2cite,abntex2cite-alf} e da classe \textsf{memoir}
-\cite{memoir}. 
+\import {./}{intrducao}
 
   
 % ------------------------------------------------------------
 \chapter{Pepinos da Vida}
 % ------------------------------------------------------------
 
-Como entender as questões relacionas aos pepinos da vida ?
-
-São muitos e diretamente proporcional a capacidade, ou a falta de capacidade, de nos relacionarmos com a vida. 
+\import {./}{Chp01}
 
 
-\lipsum[1-10]
+%% \lipsum[1-10]
 
 % ------------------------------------------------------------
 \chapter{Outros Pepinos}
@@ -356,9 +333,6 @@ São muitos e diretamente proporcional a capacidade, ou a falta de capacidade, d
 \end{figure}
 
 \lipsum[6]
-
-
-
 
 
 \lipsum[7]

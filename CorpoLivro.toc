@@ -2,7 +2,7 @@
 \select@language {brazil}
 \contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{7}{chapter*.1}
 \contentsline {chapter}{\chapternumberline {1}Pepinos da Vida}{9}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Outros Pepinos}{15}{chapter.2}
-\contentsline {chapter}{\chapternumberline {3}Mais Pepinos}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}Uma se\IeC {\c c}\IeC {\~a}o}{17}{section.3.1}
+\contentsline {chapter}{\chapternumberline {2}Outros Pepinos}{11}{chapter.2}
+\contentsline {chapter}{\chapternumberline {3}Mais Pepinos}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Uma se\IeC {\c c}\IeC {\~a}o}{13}{section.3.1}
 \vspace {\cftbeforepartskip }

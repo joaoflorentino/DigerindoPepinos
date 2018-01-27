@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.5.17)  24 JAN 2018 18:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.5.17)  26 JAN 2018 22:32
 entering extended mode
 **./CorpoLivro.tex
 (CorpoLivro.tex
@@ -1868,7 +1868,10 @@ LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks43
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 126.
+("C:\Program Files\MiKTeX 2.9\tex\latex\import\import.sty"
+Package: import 2009/03/23  v 5.1
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 127.
 
 
 ******************************************************
@@ -1893,66 +1896,66 @@ Sidefootvsep and sidefootheight: 12pt and 344.39996pt
 (CorpoLivro.aux)
 \openout1 = `CorpoLivro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 182.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 183.
 LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 18
-2.
+3.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\omlntxmi.fd"
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 182.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 182
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 183.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 183
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxexa.fd"
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 183.
 LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 18
-2.
+3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\lmsntxsy.fd"
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 183.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 1
-82.
+83.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\lmxntxexx.fd"
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 182.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 182.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 183.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 183.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    ... okay on input line 183.
 LaTeX Font Info:    Try loading font information for OT1+Alegreya-LF on input l
-ine 182.
+ine 183.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\alegreya\ot1alegreya-lf.fd"
 File: OT1Alegreya-LF.fd 2014/05/18 (autoinst) Font definitions for OT1/Alegreya
 -LF.
 )
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 182.
+(Font)              scaled to size 10.0pt on input line 183.
 \AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring ON on input line 182.
+Package hyperref Info: Link coloring ON on input line 183.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1964,25 +1967,25 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 182.
-LaTeX Info: Redefining \ref on input line 182.
-LaTeX Info: Redefining \pageref on input line 182.
-LaTeX Info: Redefining \nameref on input line 182.
-LaTeX Info: Redefining \degres on input line 182.
-LaTeX Info: Redefining \dots on input line 182.
-LaTeX Info: Redefining \up on input line 182.
+LaTeX Info: Redefining \nameref on input line 183.
+LaTeX Info: Redefining \ref on input line 183.
+LaTeX Info: Redefining \pageref on input line 183.
+LaTeX Info: Redefining \nameref on input line 183.
+LaTeX Info: Redefining \degres on input line 183.
+LaTeX Info: Redefining \dots on input line 183.
+LaTeX Info: Redefining \up on input line 183.
 
 Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 (frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document; reported on input line 182.
+(frenchb.ldf)                of your document; reported on input line 183.
 
 \myptabbox=\box83
 \myptabboxwidth=\skip347
 \c@mv@tabular=\count374
 \c@mv@boldtabular=\count375
 Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
-nput line 182.
-LaTeX Info: Redefining \microtypecontext on input line 182.
+nput line 183.
+LaTeX Info: Redefining \microtypecontext on input line 183.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -2023,11 +2026,11 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 193.
+(Font)              scaled to size 17.28pt on input line 194.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' will be
-(Font)              scaled to size 17.28pt on input line 200.
+(Font)              scaled to size 17.28pt on input line 201.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 205.
+(Font)              scaled to size 12.0pt on input line 206.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
@@ -2036,42 +2039,42 @@ LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.238 \clearpage
+l.239 \clearpage
                  [1]
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 239.
+(Font)              scaled to size 9.0pt on input line 240.
 LaTeX Font Info:    Try loading font information for TS1+Alegreya-LF on input l
-ine 241.
+ine 242.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\alegreya\ts1alegreya-lf.fd"
 File: TS1Alegreya-LF.fd 2014/05/18 (autoinst) Font definitions for TS1/Alegreya
 -LF.
 )
 LaTeX Font Info:    Font shape `TS1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 241.
+(Font)              scaled to size 9.0pt on input line 242.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Alegreya-LF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 249.
-Package mdframed Info: mdframed works in twoside mode on input line 254.
+(Font)              scaled to size 9.0pt on input line 250.
+Package mdframed Info: mdframed works in twoside mode on input line 255.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 \end{titlingpage}
+l.272 \end{titlingpage}
                         [2
 
 ]
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 30.0pt on input line 278.
+(Font)              scaled to size 30.0pt on input line 279.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/bx/n' in size <30> not availabl
 e
 (Font)              Font shape `OT1/Alegreya-LF/b/n' tried instead on input lin
-e 278.
+e 279.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/b/n' will be
-(Font)              scaled to size 30.0pt on input line 278.
+(Font)              scaled to size 30.0pt on input line 279.
  (CorpoLivro.lof
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -2127,28 +2130,28 @@ LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' will be
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \cleardoublepage
+l.280 \cleardoublepage
                        [1
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \cleardoublepage
+l.280 \cleardoublepage
                        [2
 
 ] (CorpoLivro.lot) [3] [4
 
 ]
 LaTeX Font Info:    Try loading font information for OT1+AlegreyaSans-LF on inp
-ut line 293.
+ut line 294.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\alegreya\ot1alegreyasans-lf.fd"
 File: OT1AlegreyaSans-LF.fd 2014/05/18 (autoinst) Font definitions for OT1/Aleg
 reyaSans-LF.
 )
 LaTeX Font Info:    Font shape `OT1/AlegreyaSans-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 293.
+(Font)              scaled to size 10.0pt on input line 294.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `AlegreyaSans-LF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -2159,42 +2162,17 @@ LaTeX Font Info:    Font shape `OT1/AlegreyaSans-LF/b/n' will be
 (Font)              scaled to size 10.0pt on input line 3.
 ) [5] [6
 
-]
+] (intrducao.tex
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 309.
+(Font)              scaled to size 10.0pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 23.43246pt on input line 309.
+(Font)              scaled to size 23.43246pt on input line 1.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 36.61572pt on input line 309.
-
-Overfull \hbox (23.29256pt too wide) in paragraph at lines 309--311
+(Font)              scaled to size 36.61572pt on input line 1.
+)
+Overfull \hbox (23.29256pt too wide) in paragraph at lines 1--311
 [][]
  []
-
-LaTeX Font Info:    Font shape `OT1/Alegreya-LF/bx/n' in size <10> not availabl
-e
-(Font)              Font shape `OT1/Alegreya-LF/b/n' tried instead on input lin
-e 317.
-LaTeX Font Info:    Font shape `OT1/Alegreya-LF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 317.
-
-Overfull \hbox (23.78694pt too wide) in paragraph at lines 320--324
-\OT1/Alegreya-LF/m/n/10 (-20) costuma-se in-cluir os da-dos so-bre a obra e a e
-di[][]ao, cataloga[][]ao,
- []
-
-
-LaTeX Warning: Citation `abntex2classe' on page 7 undefined on input line 330.
-
-
-LaTeX Warning: Citation `abntex2cite' on page 7 undefined on input line 330.
-
-
-LaTeX Warning: Citation `abntex2cite-alf' on page 7 undefined on input line 330
-.
-
-
-LaTeX Warning: Citation `memoir' on page 7 undefined on input line 331.
 
 [7
 
@@ -2202,56 +2180,61 @@ LaTeX Warning: Citation `memoir' on page 7 undefined on input line 331.
 
 ]
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 335.
- [9]
-Overfull \hbox (9.02036pt too wide) in paragraph at lines 343--343
-\OT1/Alegreya-LF/m/n/10 (-20) ridicu-lus mus. Ali-quam tin-cidunt urna. Nulla u
-l-lam-cor-per vestibu-
+(Font)              scaled to size 14.4pt on input line 314.
+ (Chp01.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
  []
 
-[10] [11] [12] [13] [14
+) [9] [10
 
-] <example-image-a.png, id=96, 401.5pt x 301.125pt>
+] <example-image-a.png, id=79, 401.5pt x 301.125pt>
 File: example-image-a.png Graphic file (type png)
 
 <use example-image-a.png>
-Package pdftex.def Info: example-image-a.png used on input line 353.
+Package pdftex.def Info: example-image-a.png used on input line 330.
 (pdftex.def)             Requested size: 150.00153pt x 112.50346pt.
- [15] [16 <C:/Program Files/MiKTeX 2.9/tex/latex/mwe/example-image-a.png>]
+ [11] [12 <C:/Program Files/MiKTeX 2.9/tex/latex/mwe/example-image-a.png>]
 LaTeX Font Info:    Font shape `OT1/AlegreyaSans-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 370.
- [17
+(Font)              scaled to size 12.0pt on input line 344.
+ [13
 
 ]
 No file CorpoLivro.bbl.
-[18]
+[14]
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 396.
+(Font)              size <5> substituted on input line 370.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 396.
+(Font)              size <5> substituted on input line 370.
 
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 396.
+(Font)              scaled to size 6.2pt on input line 370.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 396.
+(Font)              scaled to size 5.5pt on input line 370.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' will be
-(Font)              scaled to size 6.2pt on input line 396.
+(Font)              scaled to size 6.2pt on input line 370.
 LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' will be
-(Font)              scaled to size 5.5pt on input line 396.
+(Font)              scaled to size 5.5pt on input line 370.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/bx/n' in size <10> not availabl
+e
+(Font)              Font shape `OT1/Alegreya-LF/b/n' tried instead on input lin
+e 377.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 377.
 
-LaTeX Warning: Citation `abntex2-wiki-como-customizar' on page 19 undefined on 
-input line 403.
+LaTeX Warning: Citation `abntex2-wiki-como-customizar' on page 15 undefined on 
+input line 377.
 
 
-Overfull \hbox (5.52023pt too wide) in paragraph at lines 398--404
+Overfull \hbox (5.52023pt too wide) in paragraph at lines 372--378
 []\OT1/Alegreya-LF/m/n/10 (-20) Encorajamos que se-jam re-al-izadas customiza[]
 []oes es-pec[]ficas
  []
 
-[19
+[15
 
 ]
 \tf@lof=\write4
@@ -2263,11 +2246,11 @@ Overfull \hbox (5.52023pt too wide) in paragraph at lines 398--404
 \tf@toc=\write6
 \openout6 = `CorpoLivro.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 405.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 405.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 379.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 379.
  (CorpoLivro.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 405.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 405.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 379.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 379.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2276,14 +2259,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 405.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 379.
  ) 
 Here is how much of TeX's memory you used:
- 27892 strings out of 495232
- 466029 string characters out of 3181926
- 695839 words of memory out of 3000000
- 30668 multiletter control sequences out of 15000+200000
- 579082 words of font info for 160 fonts, out of 3000000 for 9000
+ 27875 strings out of 495232
+ 465439 string characters out of 3181926
+ 695125 words of memory out of 3000000
+ 30674 multiletter control sequences out of 15000+200000
+ 577426 words of font info for 145 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  43i,12n,54p,10457b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/alegreya/algrs_lwpqvr.enc}{C:/Pr
@@ -2297,9 +2280,9 @@ pe1/huerta/alegreya/Alegreya-Italic.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/huerta/alegreya/AlegreyaSans-Bold.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/huerta/alegreya/AlegreyaSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/newtx/txsys.pfb>
-Output written on CorpoLivro.pdf (23 pages, 149628 bytes).
+Output written on CorpoLivro.pdf (19 pages, 136599 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 29766 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 27718 words of extra memory for PDF output out of 29859 (max. 10000000)
 
